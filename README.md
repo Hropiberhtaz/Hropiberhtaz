@@ -44,18 +44,5 @@ Currently focused on sharpening my dev skills, shipping personal projects, and g
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hropiberhtaz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hropiberhtaz&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hropiberhtaz)
-
----
 
 *Thanks for stopping by! Feel free to check out my repos and leave a ⭐ if something catches your eye.*

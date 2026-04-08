@@ -1,10 +1,8 @@
-<!-- Replace [YourName] and [yourusername] with your actual GitHub username -->
-
 # Hey, I'm Hropiberhtaz 👋
 
-![Student](https://img.shields.io/badge/Student-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB&logoColor=0C447C)
+![Student](https://img.shields.io/badge/Student-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB)
 ![Open Source](https://img.shields.io/badge/Open%20Source-E1F5EE?style=flat-square&color=0F6E56&labelColor=E1F5EE)
-![Side Projects](https://img.shields.io/badge/Side%20Projects-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
+![Creative Builder](https://img.shields.io/badge/Creative%20Builder-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
 
 > Student · Open Source Contributor · Creative Builder
 
@@ -21,9 +19,19 @@ Currently focused on sharpening my dev skills, shipping personal projects, and g
 
 ## 🛠️ What I Build
 
-| 🎨 Color Palettes | 🌐 Websites | 🖼️ Wallpapers |
+| 🎨 Color Palettes | 🌐 Websites | 🖼️ Wallpapers & SVGs |
 |---|---|---|
-| Crafting aesthetic UI color systems for designers & devs | Clean, minimal web projects built from scratch | Original digital wallpapers — aesthetic & desktop-ready |
+| Crafting aesthetic UI color systems for designers & devs | Clean, minimal web projects built from scratch | Original wallpapers & white SVGs — aesthetic & desktop-ready |
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 [Hropiberhtaz.github.io](https://github.com/Hropiberhtaz/Hropiberhtaz.github.io)
+> Working to make something (I guess) — built with CSS
+
+### 🖼️ [My-wallpapers-and-svgs](https://github.com/Hropiberhtaz/My-wallpapers-and-svgs)
+> White SVGs and some cool wallpapers — built with HTML
 
 ---
 
@@ -38,15 +46,15 @@ Currently focused on sharpening my dev skills, shipping personal projects, and g
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hropiberhtaz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hropiberhtaz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/[yourusername])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hropiberhtaz)
 
 ---
 

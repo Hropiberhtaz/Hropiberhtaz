@@ -21,7 +21,7 @@ Currently focused on sharpening my dev skills, shipping personal projects, and g
 
 | 🎨 Color Palettes | 🌐 Websites | 🖼️ Wallpapers & SVGs |
 |---|---|---|
-| Crafting aesthetic UI color systems for designers & devs | Clean, minimal web projects built from scratch | Original wallpapers & white SVGs — aesthetic & desktop-ready |
+| Crafting aesthetic UI color systems for designers & devs | Clean, minimal web projects built from scratch | Recolored or just lazy to go to other sites so those wallpapers are here lol & white SVGs — aesthetic & desktop-ready |
 
 ---
 
